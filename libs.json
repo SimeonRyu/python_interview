@@ -2,6 +2,6 @@
     "language": "python",
     "math_libs": "pandas, numpy, mathplotlib, opencv, Tensorflow",
     "testing_libs": "pytest, icecream, selenium, allure",
-    "data_libs": "sqlalchemy, openpyxl",
+    "data_libs": "sqlalchemy, psycopg2, openpyxl",
     "other_libs": "pendulum, pygame"
 }
