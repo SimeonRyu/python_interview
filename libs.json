@@ -1,7 +1,7 @@
 {
     "language": "python",
     "math_libs": "pandas, numpy, opencv, Tensorflow",
-    "vizualization": "mathplotlib, seaborn, plotly, bokeh",
+    "vizualization": "mathplotlib, seaborn, plotly, bokeh, altair",
     "ml": "scikit-learn, PyTorch",
     "testing_libs": "pytest, icecream, selenium, allure",
     "data_libs": "sqlalchemy, psycopg2, openpyxl",
