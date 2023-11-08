@@ -5,5 +5,5 @@
     "ml": "scikit-learn, PyTorch",
     "testing_libs": "pytest, icecream, selenium, allure",
     "data_libs": "sqlalchemy, psycopg2, openpyxl",
-    "other_libs": "pendulum, pygame"
+    "tools": "pendulum, pygame, pypdf"
 }
