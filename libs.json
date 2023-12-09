@@ -3,7 +3,7 @@
     "math_libs": "pandas, numpy, opencv, Tensorflow",
     "vizualization": "mathplotlib, seaborn, plotly, bokeh, altair",
     "ml": "scikit-learn, PyTorch",
-    "testing_libs": "pytest, selenium, allure",
+    "testing_libs": "pytest, selenium, allure", "Faker",
     "data_libs": "sqlalchemy, psycopg2, openpyxl, pypdf",
     "web": "httpx",
     "validation": "pydentic",
