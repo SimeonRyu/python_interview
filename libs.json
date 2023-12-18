@@ -8,5 +8,5 @@
     "web": "httpx",
     "validation": "pydentic",
     "tools": "pendulum, pygame, loguru, rich, argparse, tqdm, icecream, celery",
-    "cli": "Typer",
+    "cli": "Typer, shlex",
 }
