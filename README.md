@@ -3,4 +3,4 @@
 # python_interview
 Python Interview Questions &amp; Answers
 
-go to obsidian?
+go to obsidian, notion, anytype?
