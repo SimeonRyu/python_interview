@@ -7,7 +7,7 @@
     "data_libs": "sqlalchemy, motor, psycopg2, openpyxl, pypdf",
     "web": "httpx",
     "validation": "pydentic",
-    "tools": "pendulum, pygame, loguru, rich, argparse, tqdm, icecream, celery",
+    "tools": "pendulum, python-dotenv, loguru, rich, argparse, tqdm, icecream, celery",
     "cli": "Typer, shlex",
-    "other": "certifi",
+    "other": "certifi, pygame",
 }
