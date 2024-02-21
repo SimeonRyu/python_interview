@@ -9,4 +9,5 @@
     "validation": "pydentic",
     "tools": "pendulum, pygame, loguru, rich, argparse, tqdm, icecream, celery",
     "cli": "Typer, shlex",
+    "other": "certifi",
 }
