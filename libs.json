@@ -8,6 +8,6 @@
     "web": "httpx",
     "validation": "pydentic",
     "tools": "uv", "pendulum, python-dotenv, loguru, rich, argparse, tqdm, icecream, celery",
-    "cli": "Typer, shlex",
+    "cli": "Typer, shlex", "blessed",
     "other": "certifi, pygame",
 }
