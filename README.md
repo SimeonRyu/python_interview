@@ -4,3 +4,4 @@
 Python Interview Questions &amp; Answers
 
 go to obsidian, notion, anytype?
+im leaning towards obsidian.
