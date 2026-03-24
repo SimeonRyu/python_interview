@@ -22,3 +22,8 @@ a_tuple = ("Data", "Camp", "Tutorial")
 ```
 
 this is from laptop branch
+<<<<<<< HEAD
+=======
+
+this comeup from develop branch
+>>>>>>> e6787db773ee67308217b450d4859d9f10ba6eaf
